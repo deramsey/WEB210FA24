@@ -55,3 +55,7 @@ footer > p{
     padding-top: 12px;
     font-size: .8em;
 }
+
+h1, h2{
+    color: #0f0031;
+}
